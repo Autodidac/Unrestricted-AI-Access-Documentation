@@ -15,5 +15,5 @@
 Amazing unrestricted free LLM
 - https://app.deephat.ai/
 
-// potential side step attack in a law restricted different world (piss poor by bypass trick and bonus link to a better repo like this one!)
+// potential side step attack in a law restricted different world (piss poor bypass trick and bonus link to a better repo like this one!)
 - [Blackhat hacker trick](https://github.com/friuns2/BlackFriday-GPTs-Prompts/blob/main/gpts/blackhathacker.md)
